@@ -224,9 +224,6 @@ _Chutzpah*
 # FAKE - F# Make
 **/.fake/
 
-# VsCode
-**/.vscode
-
 # logs
 logs/
 
