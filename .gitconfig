@@ -1,0 +1,6 @@
+[core]
+
+[alias]
+	sync = "!sync() { git pull --rebase && git push; }; sync"
+	tree = "log --oneline --graph --color --all --decorate --abbrev-commit"
+	treed = "log --graph --color --all --decorate --abbrev-commit"
