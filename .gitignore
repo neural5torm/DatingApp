@@ -252,5 +252,4 @@ logs/
 *.js.map
 
 #db
-**/*.db-shm
-**/*.db-wal
+**/*.db*
