@@ -248,7 +248,6 @@ logs/
 *.7z
 
 # js
-*.js
 *.js.map
 
 #db
